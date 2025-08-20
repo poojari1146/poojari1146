@@ -64,13 +64,13 @@ Here are some of my key projects and case studies:
 - 🧠 [**Business Case Study**](https://github.com/poojari1146/Business-case-study)  
   *Used Python and SQL to solve a real-world business problem with data insights.*
 
-👉 Explore all my repositories [here](https://github.com/ppooja7851?tab=repositories) 
+👉 Explore all my repositories [here](https://github.com/poojari1146?tab=repositories) 
 
 ---
 
 ### 🌐 Let's Connect
  
-📬 **Email**: poojarip432@gmail.com  
+📬 **Email**: ppooja7851@gmail.com  
 
 ---
 
